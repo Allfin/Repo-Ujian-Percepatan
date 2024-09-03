@@ -15,4 +15,5 @@
     curl http:/localhost:10080
 
 5. **Output**
-    ![alt text](image.png)
+
+   ![alt text](image.png)
