@@ -15,4 +15,5 @@
     curl http:/localhost:10080
 
 4. **Output**
+    ```bash
     ![alt text](image.png)
