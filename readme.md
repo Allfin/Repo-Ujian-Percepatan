@@ -14,6 +14,5 @@
     ```bash
     curl http:/localhost:10080
 
-4. **Output**
-    ```bash
+5. **Output**
     ![alt text](image.png)
